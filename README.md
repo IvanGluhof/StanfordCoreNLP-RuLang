@@ -1,5 +1,5 @@
 # JavaNLP-core-Modded
-JavaNLP-core Modded for RuLang
+Stanford CoreNLP modded for RuLang
 
 # Stanford CoreNLP
 
