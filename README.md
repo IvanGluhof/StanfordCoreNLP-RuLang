@@ -1,4 +1,4 @@
-# JavaNLP-core-Modded
+# Stanford CoreNLP-RuLang
 Stanford CoreNLP modded for RuLang
 
 # Stanford CoreNLP
